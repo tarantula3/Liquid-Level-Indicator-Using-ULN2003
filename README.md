@@ -130,16 +130,20 @@ Thanks
 Thanks again for checking my post. I hope it helps you.
 If you want to support me subscribe to my YouTube Channel: https://www.youtube.com/user/tarantula3
 
-Video: View
-Full Blog Post: View 
+Video: https://youtu.be/6r3ponugs64
+
+Full Blog Post: https://diy-projects4u.blogspot.com/2024/06/LiquidLevelIndicatorUsingULN2003.html
 
 
 References
 ----------
-DataSheet: Download https://github.com/tarantula3/ULN2003
-All About ULN2003 IC: View https://youtu.be/dtfGf7kf__g
-Transformers PCB BADGE: View https://youtu.be/vlJoQAzjYDo
-GitHub: View 
+DataSheet: https://github.com/tarantula3/ULN2003
+
+All About ULN2003 IC: https://youtu.be/dtfGf7kf__g
+
+Transformers PCB BADGE: https://youtu.be/vlJoQAzjYDo
+
+GitHub: [View](https://github.com/tarantula3/Liquid-Level-Indicator-Using-ULN2003) 
 
 
 
